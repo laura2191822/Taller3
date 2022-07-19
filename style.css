@@ -7,4 +7,8 @@
 }
 body{
   display: flex;
+  height: 160vh;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient();
 }
